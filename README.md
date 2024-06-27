@@ -13,4 +13,8 @@ BONUS 2: Applica stili differenti agli elementi aggiunti al DOM nel BONUS 1, a s
 Buon lavoro e buon divertimento! 
 
 problema/soluzione 
-
+1-creo un ciclo che mi stampi numeri da 1 a 100
+2-se è multiplo sia di 3 che di 5 assegno la stringa fizzbuzz
+3-se è multiplo di 3 assegno la stringa fizz
+4- se è multiplo di 5 assegno la stringa buzz
+5-altrimenti stampa solo i numeri
